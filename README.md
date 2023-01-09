@@ -1,1 +1,1 @@
-# linux_by_hands
+# linux_hands_on
