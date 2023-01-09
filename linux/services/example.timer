@@ -1,0 +1,8 @@
+[Unit]
+Description=Run my task every hour
+
+[Timer]
+OnUnitActiveSec=1h
+
+[Install]
+WantedBy=multi-user.target
